@@ -3,7 +3,6 @@
 print("main code ")
 
 
-print("py updated by the main coders")
+print("this code is updated by py change")
 
-
-print(" 2nd change by coder")
+print("pudate by py change..")
