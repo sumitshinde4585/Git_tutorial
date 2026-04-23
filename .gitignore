@@ -1,3 +1,4 @@
 eg.dat
 *.log
 passward.txt
+**/*.bak
